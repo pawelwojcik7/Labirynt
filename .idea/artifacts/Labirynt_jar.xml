@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Labirynt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Labirynt_jar</output-path>
+    <root id="archive" name="Labirynt.jar">
+      <element id="module-output" name="Labirynt" />
+    </root>
+  </artifact>
+</component>
